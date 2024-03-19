@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/>
+ https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungryuel&ltheme=gruvbox)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldrktduf0927)](https://solved.ac/zldrktduf0927)
 <!--
 **jungryuel/jungryuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
