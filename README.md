@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungryuel&ltheme=gruvbox)
