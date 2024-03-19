@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- <img src=(https://img.shields.io/badge/MySQL-#4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=#4479A1)>
+ <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/>
+
 <!--
 **jungryuel/jungryuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
