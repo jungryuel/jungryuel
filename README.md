@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white
+[![mysql]https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungryuel&ltheme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldrktduf0927)](https://solved.ac/zldrktduf0927)
 <!--
