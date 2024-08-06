@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
