@@ -20,3 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungryuel&theme=gruvbox)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldrktduf0927)](https://solved.ac/zldrktduf0927)
+
+
+### 📒 Notion(지식 저장소)
+[지식 저장소](https://eastern-orchid-c48.notion.site/fb41cf93cf5a4202831d72ff5c55e993?pvs=4)  
