@@ -1,21 +1,21 @@
-### Hi There 👋
+안녕하세요! 👋  
+호기심 많은 신입 개발자 **김정렬**입니다!
 
-![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+저는 다양한 기술과 도구를 배우고 경험하는 것을 좋아하며, 이를 통해 한층 더 성장하고자 노력하고 있습니다. 아래는 제가 주로 사용하는 기술 스택입니다. 함께 성장해 나갈 수 있는 기회를 기대합니다!
 
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
+### 🛠 DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungryuel&ltheme=gruvbox)
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungryuel&theme=gruvbox)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zldrktduf0927)](https://solved.ac/zldrktduf0927)
-<!--
-**jungryuel/jungryuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
